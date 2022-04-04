@@ -1,5 +1,5 @@
-import { createTheme } from '@mui/material/styles';
-import { red } from '@mui/material/colors';
+import { createTheme } from '@mui/material/styles'
+import { red } from '@mui/material/colors'
 
 // Create a theme instance.
 const theme = createTheme({
@@ -17,6 +17,6 @@ const theme = createTheme({
       default: '#e0e0e0',
     },
   },
-});
+})
 
-export default theme;
+export default theme
