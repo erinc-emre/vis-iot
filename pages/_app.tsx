@@ -8,11 +8,7 @@ import theme from '../src/theme'
 import createEmotionCache from '../src/createEmotionCache'
 import Navbar from '../src/components/Navbar'
 import '@aws-amplify/ui-react/styles.css'
-import Amplify from 'aws-amplify'
-import config from '../src/aws-exports'
 import { Authenticator } from '@aws-amplify/ui-react'
-
-Amplify.configure(config)
 
 // Client-side cache, shared for the whole session of the user in the browser.
 const clientSideEmotionCache = createEmotionCache()

@@ -11,13 +11,10 @@ import Link from '../Link'
 import iLogo from '../../public/Logo.png'
 import Image from 'next/image'
 
-import { Amplify } from 'aws-amplify'
 import Register from './Register'
 import { Authenticator } from '@aws-amplify/ui-react'
 import '@aws-amplify/ui-react/styles.css'
-import awsExports from '../aws-exports'
 import { useAuthenticator } from '@aws-amplify/ui-react'
-Amplify.configure(awsExports)
 
 const Offset = styled('div')(({ theme }) => theme.mixins.toolbar)
 
