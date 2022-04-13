@@ -1,9 +1,7 @@
-import { Authenticator } from '@aws-amplify/ui-react'
-import '@aws-amplify/ui-react/styles.css'
-import { useAuthenticator } from '@aws-amplify/ui-react'
+
 import { useEffect } from 'react'
 import { useRouter } from 'next/router'
-import { withAuthenticator } from '@aws-amplify/ui-react'
+
 
 function Custom404() {
   const router = useRouter()
@@ -16,9 +14,9 @@ function Custom404() {
 }
 
 function Home() {
-  const { user, signOut } = useAuthenticator((context) => [context.user])
 
-  return <h1>Wellcome {user.attributes?.name}</h1>
+
+  return <h1>Wellcome</h1>
 }
 
-export default withAuthenticator(Home)
+export default Home
