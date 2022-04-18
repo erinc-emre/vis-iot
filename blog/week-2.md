@@ -7,12 +7,15 @@ cover: 'https://images.pexels.com/photos/3520692/pexels-photo-3520692.jpeg?auto=
 
 ---
 
+### Summary
+ - AWS IoT Core Training
+ - AWS Amplify Experiment
+
 # I took AWS and AWS IoT Core trainings.
 
 ## I will write the details... ASAP
 
 See you next sunday,\
-\
 \
 \
 **_Erinc Emre Celikten_**
