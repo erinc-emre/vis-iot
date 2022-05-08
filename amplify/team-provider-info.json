@@ -1,15 +1,15 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-visiot-dev-231955-authRole",
-      "UnauthRoleArn": "arn:aws:iam::270356185258:role/amplify-visiot-dev-231955-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::270356185258:role/amplify-visiot-dev-231955-authRole",
+      "AuthRoleName": "amplify-visiot-dev-233500-authRole",
+      "UnauthRoleArn": "arn:aws:iam::270356185258:role/amplify-visiot-dev-233500-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::270356185258:role/amplify-visiot-dev-233500-authRole",
       "Region": "eu-central-1",
-      "DeploymentBucketName": "amplify-visiot-dev-231955-deployment",
-      "UnauthRoleName": "amplify-visiot-dev-231955-unauthRole",
-      "StackName": "amplify-visiot-dev-231955",
-      "StackId": "arn:aws:cloudformation:eu-central-1:270356185258:stack/amplify-visiot-dev-231955/1764cb70-bb67-11ec-97e1-0aa0925c6abc",
-      "AmplifyAppId": "d2bj1ssf5bebuh"
+      "DeploymentBucketName": "amplify-visiot-dev-233500-deployment",
+      "UnauthRoleName": "amplify-visiot-dev-233500-unauthRole",
+      "StackName": "amplify-visiot-dev-233500",
+      "StackId": "arn:aws:cloudformation:eu-central-1:270356185258:stack/amplify-visiot-dev-233500/2b44fed0-ce45-11ec-9e3d-0ae24f6603cc",
+      "AmplifyAppId": "d3n37o8o4bq5ys"
     }
   }
 }

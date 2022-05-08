@@ -69,7 +69,7 @@ const Home: NextPage = () => {
           </Typography>
 
           <Link href={{ pathname: '/blog' }} underline="none">
-            <Button variant="contained" size="large" sx={{ mt: 6 }}>
+            <Button variant="contained" size="large" color="secondary" sx={{ mt: 6 }}>
               Dev Blog
             </Button>
           </Link>
