@@ -2,6 +2,8 @@
 
 Application that provides artificial intelligence supported vision to iot systems
 
+## [Check out the Backend Repo](https://github.com/erinc-emre/visiot-backend)
+
 ## Scope
 
 Vis-IoT is a platform that allows image processing on IoT systems locally or on the cloud.
