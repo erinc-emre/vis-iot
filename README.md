@@ -47,7 +47,7 @@ I will use the Learn and Apply method as I will use many technologies that I do 
 
 ### Cloud
 
-- Taking Kubernetes, FastAPI and Google Cloud trainings
+- Taking Kubernetes, FastAPI and AWS trainings
 
 ### Network
 
@@ -55,10 +55,14 @@ I will use the Learn and Apply method as I will use many technologies that I do 
 
 ## Project Roadmap
 
-![Roadmap](https://lh3.googleusercontent.com/LzzQ9ZZIH62E-ylLqgQM1le7myDXLTlznzFfZbI6gHZEbgNB6Wg_qOGMKKw0FFsdWkBNl149tZzUMAkq44RFUSrsHHrG4-GkRXM7xq_z239_y74qG4COIoEBC2cbv-PPBGLoDrbOo4DGAnr5J3SiduzsOUVadIeVdo2auOAYOhxLpiyD2LeY-8tNccGpxz7ZwYc5dSwBai-0p5J0Tn32UKyDG6Ua91wasumRjK6PH328y1X9XcpndauGL2SvkEAmabpVUnl6OwjCV_fQjbIiRY4fJYg6xCdCyOIxuUAKjpxtwNsKo2GlwMNzOwkIrADgb71xT3583B9XvdScVidEP5JaYRLHX1ahlRxJoeDKSShPVQEp4MT9qHGZNuQXKUT3rT37xkVZ1VhBULcip4JsRyCLyR3aPC41GDfWQNC0V0FgYz-zxrZphN2Cmf3sDc7jBJ9AVSDP7txe8aOVT7MTnVcrTRqHe1GJBUC6VsIgOa_23lR8o0sn7X28P0ZKaFmDv_O7aEqW9YCtfVG75tvWD8-FSURCtBHpemzHrllcIIM3pDfCBem0QJjysWNaiD7_GIP9Hol1dmF8jaXig5DWcrgeNjPkWXc52mtTtWnUd_rtstu5E70NNPdmyrMwWCrIwhXRXcepVJWKmj6J6iIIxPc-LI7A4QGp3e44eV96AHyR5z263maWy6NJ3yjvqCI3WQ1pY7jZzTzeBF55QXcJNz8=w1560-h868-no?authuser=0)
+![Versions](https://github.com/erinc-emre/visiot/blob/main/figures/versions.png?raw=true)
 
 ## Time Line
 
 - There is a 12-week development period. Since the trainings can be held simultaneously, it is very difficult to create a precise calendar.
 - The application is being developed using the Waterfall model. For the Test and Validation stages, the implementation is planned to be finished in 10 weeks.
 - On the website, the progress of the application will be shown on the roadmap and the operations will be explained on a weekly basis.
+
+# State of Art Version
+
+![Versions](https://github.com/erinc-emre/visiot/blob/main/figures/complete_cloud.png?raw=true)

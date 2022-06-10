@@ -23,6 +23,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-vertical-timeline-component": "^3.5.2",
+    "recharts": "^2.1.10",
     "remark": "^14.0.2",
     "remark-html": "^15.0.1"
   },
